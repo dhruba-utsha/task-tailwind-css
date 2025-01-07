@@ -2,21 +2,21 @@
 
   <!-- Page 1-->
   <section class="bg-white pb-[50px]">
-    <header class="flex flex-col items-center">
-        <img class="lg: h-24 w-44 mt-[50px] mb-[30px] sm:" src="assets\images\logo.png" alt="Fast Service Logo">
+    <div class="flex flex-col items-center">
+        <img class="h-24 w-44 mt-[50px] mb-[30px]" src="assets\images\logo.png" alt="Fast Service Logo">
 
-        <h1 class="text-[#1B4B36] text-[30px] font-bold text-center">স্বাস্থ্য, ফিটনেস এবং প্রযুক্তি সবকিছু একসাথে!</h1>
+        <h1 class= "text-[#1B4B36] font-bold text-center text-[16px] md:text-[25px] lg:text-[30px]">স্বাস্থ্য, ফিটনেস এবং প্রযুক্তি সবকিছু একসাথে!</h1>
 
-        <h1 class="text-[#1B4B36] text-[30px] font-bold text-center mt-[10px]">"আপনার স্টাইল, আপনার স্মার্টওয়াচ।"</h1>
+        <h1 class="text-[#1B4B36] text-[16px] md:text-[25px] lg:text-[30px] font-bold text-center mt-[10px]">"আপনার স্টাইল, আপনার স্মার্টওয়াচ।"</h1>
 
-        <h3 class="text-black-700 text-[16px] font-bold text-center bg-[#EBFF3D] py-[10px] px-[50px] m-[30px]">আপনার জীবনকে আরও স্মার্ট করুন।</h3>
+        <h3 class="text-black-700 text-[14px] md:text-[16px] lg:text-[16px] font-bold text-center bg-[#EBFF3D] py-[10px] px-[20px] md:py-[10px] md:px-[20px] lg:py-[10px] lg:px-[50px] m-[30px]">আপনার জীবনকে আরও স্মার্ট করুন।</h3>
 
-        <iframe class="h-[400px] w-[600px] mt-[40px] mb-[50px]" width="560" height="315" src="https://www.youtube.com/embed/YGQBm9Mnad8?si=cqmZ6YUiKLOdwZUi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="h-[200px] w-[320px] md:h-[300px] md:w-[500px] lg:h-[400px] lg:w-[600px] mt-[40px] mb-[50px]" src="https://www.youtube.com/embed/YGQBm9Mnad8?si=cqmZ6YUiKLOdwZUi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-    </header>
+    </div>
 
     <div class="flex justify-center">
-      <div class="text-[#EBFF3D] text-[18px] font-bold text-center bg-[#1B4B36] rounded-[20px] py-[10px] px-[40px] flex">
+      <div class="text-[#EBFF3D] text-[14px] md:text-[16px] lg:text-[18px] font-bold text-center bg-[#1B4B36] rounded-[20px] py-[10px] px-[20px] md:py-[10px] md:px-[40px] lg:py-[10px] lg:px-[30px] flex">
         <h3>অর্ডার করতে ক্লিক করুন</h3>
         <img class="w-[24px] h-[24px] ml-[10px]" src="assets\images\Vector.png" alt="icon">
       </div>
